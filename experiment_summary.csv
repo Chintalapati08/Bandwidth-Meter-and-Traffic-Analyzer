@@ -1,0 +1,4 @@
+Load,Rate_pps,App_Packets,Switch_Packets,App_Bytes,Switch_Bytes,Packet_Loss_Percent,App_Throughput_Mbps,Average_Delay_ms
+Low,100,1000,1000,1036000,1078000,0,0.8296,0.724
+Medium,500,1000,1000,1036000,1078000,0,4.1191,0.379
+High,1000,1000,1000,1036000,1078000,0,8.3008,0.235
